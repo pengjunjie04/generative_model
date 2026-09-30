@@ -1,0 +1,14 @@
+data:
+  root: "/data1/pengjunjie/Dataset/archive/img_align_celeba/img_align_celeba"
+
+save:
+  dir: "./vae_test_checkpoints"
+
+hyparam:
+  batch_size: 1024
+  lr: 2e-4
+  num_epochs: 300
+  latent_dim: 128
+  sample_every: 5
+  num_sample_images: 8
+  image_size: 64
