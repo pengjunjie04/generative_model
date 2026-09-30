@@ -13,3 +13,6 @@ data/
 dataset/
 outputs/
 checkpoints/
+vae/vae_test_checkpoints/
+
+
